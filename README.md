@@ -157,7 +157,6 @@ Jupyter Notebook
 # Repository Structure
 
 ```
-project-name
 │
 ├── data
 │

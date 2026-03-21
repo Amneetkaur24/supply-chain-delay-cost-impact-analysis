@@ -4,7 +4,8 @@ Predicting car shipment delays and estimating financial impact using machine lea
 --
 <img width="873" height="489" alt="image" src="https://github.com/user-attachments/assets/51355b48-5e98-4e89-8eac-e6a5bd453234" />
 ---
-
+Live App: https://car-shipment-delay-prediction-8gxekgz52yqxspeqtu8svv.streamlit.app/
+---
 # Business Problem
 
 Automotive manufacturing depends heavily on timely delivery of critical components such as engines, transmissions, brakes, suspension systems, and infotainment modules.
